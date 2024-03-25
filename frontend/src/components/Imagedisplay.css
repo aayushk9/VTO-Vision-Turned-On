@@ -1,0 +1,19 @@
+.image-display {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.image-container {
+    text-align: center;
+}
+
+.image-title {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.image {
+    max-width: 100%;
+    height: auto;
+}  

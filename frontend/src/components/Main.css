@@ -1,0 +1,25 @@
+.main-container {
+    display: flex;
+  }
+  
+  .image-container {
+    flex: 1;
+    margin: 0 10px;
+  }
+  
+  img {
+    width: 50%; 
+    height: auto;
+  }
+
+  .intro-section {
+    text-align: center; 
+  }
+  
+  
+  .intro-section p {
+    font-size: 1.2rem; 
+    line-height: 1.6; 
+    margin-bottom: 20px; 
+  }
+  
